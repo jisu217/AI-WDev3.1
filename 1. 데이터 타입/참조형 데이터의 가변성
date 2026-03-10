@@ -1,0 +1,5 @@
+var obj1 = { a: 1, b: 'bbb' };
+var obj2 = obj1;
+
+# obj2.a를 바꾸면 obj1.a도 같이 바뀜
+obj2.a = 2;

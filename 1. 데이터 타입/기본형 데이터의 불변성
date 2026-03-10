@@ -1,0 +1,11 @@
+var a = 'abc';
+a = a + 'def'; # 데이터 영역에 새로운 공간을 만들어 'abcdef' 저장
+
++
+
+var a = 'abc';
+a = a + 'def';
+
+var b = 5;
+var c = 5;
+b = 7;
